@@ -1,0 +1,13 @@
+logs/*
+!.gitkeep
+node_modules/
+tmp
+.DS_Store
+.idea/
+*.iml
+Thumbs.db
+/app/.vs
+package-lock.json
+*.zip
+.prettierignore
+css/
